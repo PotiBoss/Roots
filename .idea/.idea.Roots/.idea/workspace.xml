@@ -7,11 +7,8 @@
   <component name="ChangeListManager">
     <list default="true" id="304b528e-adf1-48e0-9b24-930f8ba46f6f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Roots/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Roots/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/Menu/NewMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/Menu/NewMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/Menu/WBP_Main_Menu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/Menu/WBP_Main_Menu.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/WDP_How_to_play.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/WDP_How_to_play.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/WDP_Options.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/WDP_Options.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/WDP_ScoreScreen.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/WDP_ScoreScreen.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Cards/WBP_CharacterCard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Cards/WBP_CharacterCard.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Main/WBP_MainWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Main/WBP_MainWidget.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +156,7 @@
       <workItem from="1675585569113" duration="215000" />
       <workItem from="1675585992934" duration="1198000" />
       <workItem from="1675595714752" duration="610000" />
-      <workItem from="1675599481002" duration="307000" />
+      <workItem from="1675599481002" duration="908000" />
     </task>
     <servers />
   </component>
