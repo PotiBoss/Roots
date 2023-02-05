@@ -6,7 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fdb51be-e35b-4dce-86ef-fe95d4383d0d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Roots/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Roots/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Cards/WBP_CharacterCard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Cards/WBP_CharacterCard.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Main/WBP_MainWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Main/WBP_MainWidget.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MainMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MainMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Misc/BP_MainCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Misc/BP_MainCharacter.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +157,7 @@
       <updated>1675565281520</updated>
       <workItem from="1675565304527" duration="804000" />
       <workItem from="1675566283610" duration="177000" />
-      <workItem from="1675566528963" duration="1336000" />
+      <workItem from="1675566528963" duration="1930000" />
     </task>
     <servers />
   </component>
