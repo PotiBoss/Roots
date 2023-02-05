@@ -5,12 +5,18 @@
     <projectFile>Intermediate/ProjectFiles/UE5.vcxproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fdb51be-e35b-4dce-86ef-fe95d4383d0d" name="Changes" comment="">
+    <list default="true" id="304b528e-adf1-48e0-9b24-930f8ba46f6f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Roots/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Roots/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Cards/WBP_CharacterCard.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Cards/WBP_CharacterCard.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Main/WBP_MainWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Main/WBP_MainWidget.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/MainMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MainMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Misc/BP_MainCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Misc/BP_MainCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Music/GGJ_RENESANS_MIXM.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Music/GGJ_RENESANS_MIXM.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Music/PREHISTORIAMIX.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Music/PREHISTORIAMIX.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Music/SREDNIOWIECZEMIXM.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Music/SREDNIOWIECZEMIXM.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Music/STAROZYTNOSCMIXM.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Music/STAROZYTNOSCMIXM.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UI/Menu/NewMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/Menu/NewMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UI/Menu/WBP_Main_Menu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/Menu/WBP_Main_Menu.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UI/WDP_How_to_play.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/WDP_How_to_play.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UI/WDP_Options.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/WDP_Options.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/WDP_ScoreScreen.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/WDP_ScoreScreen.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/WDP_SelectScreen.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/WDP_SelectScreen.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2LIj1uYr196kkANnZblxbY0KEtg" />
+  <component name="ProjectId" id="2LJO7JZhKlr8kgzIu7nVOmOfpmD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -150,14 +156,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1fdb51be-e35b-4dce-86ef-fe95d4383d0d" name="Changes" comment="" />
-      <created>1675565281520</created>
+      <changelist id="304b528e-adf1-48e0-9b24-930f8ba46f6f" name="Changes" comment="" />
+      <created>1675585560928</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675565281520</updated>
-      <workItem from="1675565304527" duration="804000" />
-      <workItem from="1675566283610" duration="177000" />
-      <workItem from="1675566528963" duration="1930000" />
+      <updated>1675585560928</updated>
+      <workItem from="1675585569113" duration="215000" />
+      <workItem from="1675585992934" duration="601000" />
     </task>
     <servers />
   </component>
